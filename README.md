@@ -52,3 +52,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihiteshsharma&layout=compact)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=ihiteshsharma&color=319e77&style=plastic)
