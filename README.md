@@ -1,13 +1,4 @@
-### Hi 👋, I am Hitesh Sharma | Full-Stack Developer | Aspiring Cloud Architect  
-
----
-
-### Big Goals
-
--  🏆 Evolve as a software architect
--  💻 Create 2 live courses for Full-Stack and JavaScript track
--  ✍ Write 365 blog posts as short tutorials, cheat sheets, conceptual guides, etc.
--  ⎔ Contribute to 5 Open Source Projects
+### Hi 👋, I am Hitesh Sharma | Full-Stack Developer
 
 
 ---
