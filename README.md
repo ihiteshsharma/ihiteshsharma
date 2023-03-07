@@ -28,17 +28,8 @@
 ![Trello](http://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=ffffff)
 ![Jira](http://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=ffffff)
 
----
 
-### Currently learning
-
-![GO](http://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
-![AWS](http://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
-![Redis](http://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
-
----
-
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihiteshsharma&show_icons=true&theme=graywhite)
+![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihiteshsharma&show_icons=true&theme=transparent)
 
 ---
 
