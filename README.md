@@ -20,12 +20,8 @@
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 ![Gatsby](http://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)
-![ChakraUI](http://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=ChakraUI&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![K8s](http://img.shields.io/badge/-K8s-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
-![Asana](http://img.shields.io/badge/-Asana-273347?style=for-the-badge&logo=Asana&logoColor=ffffff)
-![Todoist](http://img.shields.io/badge/-Todoist-E44332?style=for-the-badge&logo=Todoist&logoColor=ffffff)
-![Trello](http://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=ffffff)
 ![Jira](http://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=ffffff)
 
 
