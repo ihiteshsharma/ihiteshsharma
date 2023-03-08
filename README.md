@@ -33,7 +33,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihiteshsharma&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihiteshsharma&layout=compact&theme=transparent)
 
 ---
 
