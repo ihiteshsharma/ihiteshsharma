@@ -2,6 +2,7 @@
 
 I am a seasoned **AI Engineer** with **8+ years** of varied development experience, specializing in **Generative AI solutions** and **Agentic Systems**. My focus is architecting and deploying **robust, scalable AI pipelines**—from LLM fine-tuning to complex multi-platform automation.
 
+
 ---
 
 ### 💡 Core Focus & Expertise
